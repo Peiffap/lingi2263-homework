@@ -1,0 +1,7 @@
+<s> hi pal </s>
+<s> hi <UNK> </s>
+<s> hi <UNK> </s>
+<s> hi dude </s>
+<s> hi <MIS> </s>
+<s> hi <MIS> </s>
+<s> hi <MIS> </s>
